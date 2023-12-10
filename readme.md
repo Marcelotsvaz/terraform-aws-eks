@@ -1,1 +1,1 @@
-# EKS Module for Terraform
+# AWS EKS Terraform Module
